@@ -15,13 +15,13 @@
   "license": "W3C",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0-alpha.14",
-    "cheerio": "^1.0.0-rc.12",
-    "glob": "^10.3.16",
+    "cheerio": "^1.0.0",
+    "glob": "^10.4.5",
     "gray-matter": "^4.0.3",
-    "liquidjs": "^10.14.0",
+    "liquidjs": "^10.16.4",
     "lodash-es": "^4.17.21",
     "mkdirp": "^3.0.1",
-    "tsx": "^4.11.0"
+    "tsx": "^4.17.0"
   },
   "devDependencies": {
     "@types/lodash-es": "^4.17.12",
