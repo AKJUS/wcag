@@ -14,7 +14,7 @@
   "author": "W3C",
   "license": "W3C",
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0-alpha.14",
+    "@11ty/eleventy": "^3.0.0",
     "cheerio": "^1.0.0-rc.12",
     "glob": "^10.3.16",
     "gray-matter": "^4.0.3",
